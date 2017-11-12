@@ -1,5 +1,5 @@
-# fullstackdev-roadmap
-This is career roadmap for full stack developer
+#Fullstack Developer Career Roadmap
+This is a learning path from zero to become full stack developer.
 
 Git:
 * [ ] basic:
@@ -7,7 +7,7 @@ Git:
     * [ ] push
     * [ ] merge
     * [ ] rebase
-    * [ ] rozwiązywanie konfliktów
+    * [ ] conflicts
     * [ ] reset
     * [ ] gitignore
 * [ ] advanced
@@ -17,32 +17,31 @@ Git:
     
 Linux:
 * [ ] basic:
-    * [ ] nawigacja:
+    * [ ] navigation:
         * [ ] ls
         * [ ] cd
         * [ ] pwd
         * [ ] chmod
         * [ ] chown
-    * [ ] procesy:
+    * [ ] processes:
         * [ ] ps
-    * [ ] czytanie plików z logami
+    * [ ] reading files
         * [ ] tail
         * [ ] less
         * [ ] cat
         * [ ] grep
         * [ ] find
         * [ ] wc
-        * [ ] znaczki: | lub >> lub <<
-    * [ ] uruchamianie i restartowanie usług
+        * [ ] | vs >> vs <<
+    * [ ] system services
         * [ ] systemctl
         * [ ] service
-    * [ ] uruchamianie skryptów bash
-    * [ ] pisanie skryptów bash
+    * [ ] writing bash scripts
         * [ ] shells
         * [ ] shebang
         * [ ] control instructions: if, for
         * [ ] variables
-        * [ ] przechwytywanie argumentów z konsoli
+        * [ ] script arguments
         * [ ] functions
         * [ ] echo
 * [ ] advanced
@@ -56,7 +55,7 @@ CSS:
 * [ ] advanced
 
 JavaScript:
-* [ ] basic:
+* [ ] basic
     * [ ] data types: number, string, boolean
     * [ ] instructions
     * [ ] expressions
@@ -66,8 +65,7 @@ JavaScript:
     * [ ] global and local variables
     * [ ] arrays
     * [ ] JSON
-   
-* [ ] advanced:
+* [ ] advanced
     * [ ] typescript
     * [ ] es6
     * [ ] lodash
@@ -90,12 +88,12 @@ Java:
     
 Databases:
 * [ ] beginner
-    * [ ] bazy relacyjne
+    * [ ] relational 
 * [ ] advanced
     * [ ] nosql
-        * [ ] dokumentowe
-        * [ ] grafowe
-        * [ ] kolumnowe
+        * [ ] document-based
+        * [ ] graph-based
+        * [ ] column-based
 
 Docker:
 * [ ] basic
