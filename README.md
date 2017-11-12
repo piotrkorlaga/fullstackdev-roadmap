@@ -2,7 +2,7 @@
 
 This is a learning path from zero to become full stack developer.
 
-Git:
+### Git ###
 * [ ] basic:
     * [ ] commit
     * [ ] push
@@ -16,7 +16,7 @@ Git:
     * [ ] squash
     * [ ] cherry pick
     
-Linux:
+### Linux ###
 * [ ] basic:
     * [ ] navigation:
         * [ ] ls
@@ -47,15 +47,15 @@ Linux:
         * [ ] echo
 * [ ] advanced
 
-HTML:
+### HTML ###
 * [ ] beginner
 * [ ] advanced
 
-CSS:
+### CSS ###
 * [ ] basic
 * [ ] advanced
 
-JavaScript:
+### JavaScript ###
 * [ ] basic
     * [ ] data types: number, string, boolean
     * [ ] instructions
@@ -80,14 +80,14 @@ JavaScript:
     * [ ] react
     * [ ] react native
     
-Java:
+### Java ###
 * [ ] basic
 * [ ] advanced
 * [ ] frameworks
     * [ ] spring
     * [ ] hibernate
     
-Databases:
+### Databases ###
 * [ ] beginner
     * [ ] relational 
 * [ ] advanced
@@ -96,6 +96,6 @@ Databases:
         * [ ] graph-based
         * [ ] column-based
 
-Docker:
+### Docker ###
 * [ ] basic
 * [ ] advanced
