@@ -2,7 +2,7 @@
 This is career roadmap for full stack developer
 
 Git:
-* [ ] podstawy:
+* [ ] basic:
     * [ ] commit
     * [ ] push
     * [ ] merge
@@ -10,13 +10,13 @@ Git:
     * [ ] rozwiązywanie konfliktów
     * [ ] reset
     * [ ] gitignore
-* [ ] zaawansowane
+* [ ] advanced
     * [ ] pull request
     * [ ] squash
     * [ ] cherry pick
     
 Linux:
-* [ ] podstawy:
+* [ ] basic:
     * [ ] nawigacja:
         * [ ] ls
         * [ ] cd
@@ -45,28 +45,34 @@ Linux:
         * [ ] przechwytywanie argumentów z konsoli
         * [ ] functions
         * [ ] echo
-* [ ] zaawansowane
+* [ ] advanced
 
 HTML:
 * [ ] beginner
-* [ ] advance
+* [ ] advanced
 
 CSS:
-* [ ] podstawy
-* [ ] zaawansowane
+* [ ] basic
+* [ ] advanced
 
 JavaScript:
-* [ ] podstawy:
-    * [ ] tworzenie obiektów w ES5
-    * [ ] literały obiektów
-    * [ ] domknięcia
-    * [ ] symulowanie struktury klas w ES5
-* [ ] zaawansowane:
+* [ ] basic:
+    * [ ] data types: number, string, boolean
+    * [ ] instructions
+    * [ ] expressions
+    * [ ] literals
+    * [ ] functions
+    * [ ] prototype
+    * [ ] global and local variables
+    * [ ] arrays
+    * [ ] JSON
+   
+* [ ] advanced:
     * [ ] typescript
     * [ ] es6
     * [ ] lodash
-    * [ ] chainowanie funkcji
-* [ ] frameworki
+    * [ ] chain API
+* [ ] frameworks
     * [ ] angular
         * [ ] component lifecycle
         * [ ] two way vs one way data binding
@@ -76,21 +82,21 @@ JavaScript:
     * [ ] react native
     
 Java:
-* [ ] podstawy
-* [ ] zaawansowane
-* [ ] frameworki
+* [ ] basic
+* [ ] advanced
+* [ ] frameworks
     * [ ] spring
     * [ ] hibernate
     
-Bazy danych:
-* [ ] podstawy
+Databases:
+* [ ] beginner
     * [ ] bazy relacyjne
-* [ ] zaawansowane
+* [ ] advanced
     * [ ] nosql
         * [ ] dokumentowe
         * [ ] grafowe
         * [ ] kolumnowe
 
 Docker:
-* [ ] podstawy
-* [ ] zaawansowane
+* [ ] basic
+* [ ] advanced
