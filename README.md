@@ -38,18 +38,18 @@ Linux:
         * [ ] service
     * [ ] uruchamianie skryptów bash
     * [ ] pisanie skryptów bash
-        * [ ] jakie są powłoki?
+        * [ ] shells
         * [ ] shebang
-        * [ ] instrukcje sterujace: if, for
-        * [ ] zmienne
+        * [ ] control instructions: if, for
+        * [ ] variables
         * [ ] przechwytywanie argumentów z konsoli
-        * [ ] funkcje
+        * [ ] functions
         * [ ] echo
 * [ ] zaawansowane
 
 HTML:
-* [ ] podstawy
-* [ ] zaawansowane
+* [ ] beginner
+* [ ] advance
 
 CSS:
 * [ ] podstawy
