@@ -54,6 +54,7 @@ This is a learning path from zero to become full stack developer.
 ### CSS ###
 * [ ] basic
 * [ ] advanced
+    * [ ] flex boxes
 
 ### JavaScript ###
 * [ ] basic
@@ -67,8 +68,11 @@ This is a learning path from zero to become full stack developer.
     * [ ] arrays
     * [ ] JSON
 * [ ] advanced
+    * [ ] npm
     * [ ] typescript
     * [ ] es6
+        * [ ] fetch API
+        * [ ] async/await
     * [ ] lodash
     * [ ] chain API
 * [ ] frameworks
@@ -78,7 +82,15 @@ This is a learning path from zero to become full stack developer.
         * [ ] pipes
         * [ ] directives
     * [ ] react
+        * [ ] ReactDOM
+        * [ ] Component
+        * [ ] Component lifecycle
+        * [ ] this.props
+        * [ ] this.state
+        * [ ] Redux/MobX
     * [ ] react native
+        * [ ] Components libraries like React Native Elements
+        * [ ] gradle for Android development
     
 ### Java ###
 * [ ] basic
