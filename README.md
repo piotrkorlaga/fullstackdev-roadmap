@@ -59,20 +59,28 @@ This is a learning path from zero to become full stack developer.
 ### JavaScript ###
 * [ ] basic
     * [ ] data types: number, string, boolean
-    * [ ] instructions
-    * [ ] expressions
-    * [ ] literals
-    * [ ] functions
-    * [ ] prototype
-    * [ ] global and local variables
-    * [ ] arrays
+    * [ ] undefined vs null
+    * [ ] instructions: for, while, if, switch, return
+    * [ ] expressions: &&, ||, !=, ==, ===
+    * [ ] literals: {}
     * [ ] JSON
+    * [ ] functions: declaration, expressions, arrow functions
+    * [ ] objects
+    * [ ] this
+    * [ ] prototype
+    * [ ] global and local scope
+    * [ ] block scope variables: let, const
+    * [ ] arrays and iterators
+    
 * [ ] advanced
+    * [ ] babel
     * [ ] npm
     * [ ] typescript
     * [ ] es6
         * [ ] fetch API
         * [ ] async/await
+        * [ ] modules - import/export
+        * [ ] classes
     * [ ] lodash
     * [ ] chain API
 * [ ] frameworks
