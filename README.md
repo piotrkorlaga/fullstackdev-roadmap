@@ -1,5 +1,4 @@
 # Fullstack Developer Career Roadmap #
-
 This is a learning path from zero to become full stack developer.
 
 ### Git ###
@@ -59,7 +58,7 @@ This is a learning path from zero to become full stack developer.
 ### JavaScript ###
 * [ ] basic
     * [ ] data types: number, string, boolean
-    * [ ] undefined vs null
+    * [ ] undefined vs null vs NaN
     * [ ] instructions: for, while, if, switch, return
     * [ ] expressions: &&, ||, !=, ==, ===
     * [ ] literals: {}
@@ -106,7 +105,9 @@ This is a learning path from zero to become full stack developer.
 * [ ] frameworks
     * [ ] spring
     * [ ] hibernate
-    
+* [ ] tools
+    * [ ] Maven
+    * [ ] Gradel    
 ### Databases ###
 * [ ] beginner
     * [ ] relational 
@@ -118,4 +119,11 @@ This is a learning path from zero to become full stack developer.
 
 ### Docker ###
 * [ ] basic
+* [ ] advanced
+
+### Cloud ###
+* [ ] basic
+    * [ ] AWS
+    * [ ] Google Cloud Platform
+    * [ ] Azure
 * [ ] advanced
