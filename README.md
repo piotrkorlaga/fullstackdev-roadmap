@@ -52,8 +52,25 @@ This is a learning path from zero to become full stack developer.
 
 ### CSS ###
 * [ ] basic
+    * [ ] positioning HTML elements
 * [ ] advanced
-    * [ ] flex boxes
+    * [ ] flexbox
+    * [ ] gradients
+    * [ ] grids
+    * [ ] transformations
+    * [ ] trasitions 
+    * [ ] preporocessors
+        * [ ] Sass
+    * [ ] responsive design:
+        * [ ] @media
+        * [ ] typography
+    * [ ] methodologies
+        * [ ] BEM
+* [ ] frameworks
+    * [ ] bootstrap
+        * [ ] grid
+        * [ ] components
+    
 
 ### JavaScript ###
 * [ ] basic
@@ -74,20 +91,29 @@ This is a learning path from zero to become full stack developer.
 * [ ] advanced
     * [ ] babel
     * [ ] npm
-    * [ ] typescript
+    * [ ] webpack
+    * [ ] typescript or flow
     * [ ] es6
         * [ ] fetch API
         * [ ] async/await
         * [ ] modules - import/export
         * [ ] classes
     * [ ] lodash
+    * [ ] RxJS
     * [ ] chain API
+    * [ ] tests
+        * [ ] Jest
+        * [ ] Jasmine
+        * [ ] Mocha   
 * [ ] frameworks
     * [ ] angular
         * [ ] component lifecycle
         * [ ] two way vs one way data binding
         * [ ] pipes
         * [ ] directives
+        * [ ] angular cli
+        * [ ] libs
+            * [ ] PrimeNG
     * [ ] react
         * [ ] ReactDOM
         * [ ] Component
@@ -98,6 +124,7 @@ This is a learning path from zero to become full stack developer.
     * [ ] react native
         * [ ] Components libraries like React Native Elements
         * [ ] gradle for Android development
+        * [ ] basics of Objective-C for iOS development
     
 ### Java ###
 * [ ] basic
@@ -108,6 +135,7 @@ This is a learning path from zero to become full stack developer.
 * [ ] tools
     * [ ] Maven
     * [ ] Gradel    
+    
 ### Databases ###
 * [ ] beginner
     * [ ] relational 
@@ -116,6 +144,18 @@ This is a learning path from zero to become full stack developer.
         * [ ] document-based
         * [ ] graph-based
         * [ ] column-based
+
+### Data structures and algorithms  ###
+* [ ] basic
+* [ ] advanced
+     
+### Design patterns  ###
+* [ ] basic
+* [ ] advanced
+
+### Enterprise integrations patterns  ###
+* [ ] basic
+* [ ] advanced
 
 ### Docker ###
 * [ ] basic
